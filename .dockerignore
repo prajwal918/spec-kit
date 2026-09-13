@@ -1,0 +1,13 @@
+.git
+.github
+__pycache__
+*.pyc
+env/
+venv/
+.venv/
+node_modules
+npm-debug.log
+.pytest_cache/
+Dockerfile
+docker-compose.yml
+.DS_Store
